@@ -1,0 +1,79 @@
+orig_skill,orig_skill_descript,o_wc,o_fk,new_skill,new_skill_descript,n_wc,n_fk
+Basic Skills (10 elements):,Developed capacities that facilitate learning or the more rapid acquisition of knowledge.,12,14.6,Core Skills (10 elements),Skills to help with or speed up learning. ,8,0.8
+,,,,,,,
+Active Learning:,Understanding the implications of new information for both current and future problem-solving and decision-making.,14,16.8,Active Learning:,Learn new facts. Understand how they affect both current and future problems and choices. ,14,3.9
+Active Listening:,"Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times.",27,15.9,Active Listening:,"Listen closely to other people. Pay full attention to what they say. Take time to understand their meaning. Ask questions, if needed. Let people finish talking before you speak. ",29,4.5
+,,,,,,,
+Critical Thinking:,"Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.",18,15.6,Critical Thinking:,Use logic and reason to think through problems. Figure out the pros and cons of plans. Think of new ways to do something. Find problems and solve them.   ,28,1.8
+,,,,,,,
+Learning Strategies:,Selecting and using training/instructional methods and procedures appropriate for the situation when learning or teaching new things.,18,14.3,Learning Styles:,Use or make teaching and training plans. Match learning styles with the right plans.  ,14,1.4
+,,,,,,,
+Mathematics:,Using mathematics to solve problems.,5,9.9,Math:,Use math to solve problems. ,5,0.5
+,,,,,,,
+Monitoring:,"Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.",16,18.6,Monitoring and Assessing: ,Study the work process. Find problems and fix them.,9,1.8
+,,,,,,,
+Reading Comprehension:,Understanding written sentences and paragraphs in work related documents.,9,14.1,Reading:,Read and understand written text as needed for work.  ,9,4.9
+Science:,Using scientific rules and methods to solve problems.,8,6.7,Science:,Use the rules and methods of science to solve problems.,10,2.4
+,,,,,,,
+Speaking:,Talking to others to convey information effectively.,7,14.1,Speaking:,Talk to others. Speak clearly and explain things well.  ,9,1.8
+,,,,,,,
+Writing:,Communicating effectively in writing as appropriate for the needs of the audience.,12,12.6,Writing:,Write clearly and explain things well. Write in a way that meets readers’ needs. ,14,1.4
+,,,,,,,
+Complex Problem Solving Skills (1 element):,"Developed capacities used to solve novel, ill-defined problems in complex, real-world settings.",12,12.6,Problem Solving Skills (1 element): ,"Skills used to solve new, confusing problems in the real world.",11,3.7
+,,,,,,,
+Complex Problem Solving:,Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions.,15,18.5,Solving Hard Problems: ,Find hard problems that need to be solved. Study facts and info about those problems. Find and use ways to solve the problems.,23,2.2
+,,,,,,,
+Resource Management Skills (4 elements):,Developed capacities used to allocate resources efficiently.,7,17.4,Management Skills: (4 elements):,"Skills used to manage people, money, and things. ",8,3.7
+,,,,,,,
+Management of Financial Resources:,"Determining how money will be spent to get the work done, and accounting for these expenditures.",16,9,Managing Money: ,Control how money is spent to get work done. Keep track of spending and keep records. ,16,2.2
+,,,,,,,
+Management of Material Resources:,"Obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work.",17,13.9,Managing Things and Supplies:,"Order and manage equipment, space, and supplies needed to get work done. Make sure they are used the right way. ",20,3.6
+,,,,,,,
+Management of Personnel Resources:,"Motivating, developing, and directing people as they work, identifying the best people for the job.",15,12.2,Managing Workers:,Give workers tasks to do. Get them excited to do their job. Help them gain the skills they need. Find the best workers for the job. ,26,0.5
+,,,,,,,
+Time Management:,Managing one's own time and the time of others.,9,4.9,Managing Time:,Make sure time is spent wisely. Manage work time for self and others.,13,1.4
+,,,,,,,
+Social Skills (6 elements):,Developed capacities used to work with people to achieve goals.,10,8.3,Social Skills (6 elements):,Skills used to work with others to reach goals. ,9,1
+,,,,,,,
+Coordination:,Adjusting actions in relation to others' actions.,7,10.7,Coordinating: ,Make sure your actions match up well with the actions of other team members. Adjust as needed.,17,3.6
+,,,,,,,
+Instructing:,Teaching others how to do something.,6,6.4,Teaching: ,Teach others how to do things.,6,0.5
+,,,,,,,
+Negotiation:,Bringing others together and trying to reconcile differences.,8,11.1,Making Deals: ,Bring people together to reach the best deal. Solve problems and differences. ,12,4.4
+,,,,,,,
+Persuasion:,Persuading others to change their minds or behavior.,8,8.1,Convincing:,Change how people think and act. Get people to do what you want.,13,0.5
+,,,,,,,
+Service Orientation:,Actively looking for ways to help people.,7,5.6,Helping Others:,Look for ways to help people.,6,0.5
+Social Perceptiveness:,Being aware of others' reactions and understanding why they react as they do.,13,6.7,Emotional Understanding,Be aware of how people react. Understand why they react that way. Understand their feelings.,15,3.6
+,,,,,,,
+Systems Skills (3 elements):,"Developed capacities used to understand, monitor, and improve socio-technical systems.",10,17.8,Systems Skills (3 elements):,Skills used to understand and improve how social and technical systems work. ,12,7.7
+,,,,,,,
+Judgment and Decision Making:,Considering the relative costs and benefits of potential actions to choose the most appropriate one.,15,12.2,Judging and Choosing:,Understand the pros and cons of different actions. Choose the best action to take.  ,14,3.9
+,,,,,,,
+Systems Analysis:,"Determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes.",18,13,Studying Systems:,Understand how a system works. Figure out how changes to the system will affect outcomes. ,15,5.4
+,,,,,,,
+Systems Evaluation:,"Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system.",23,14.9,Assessing Systems:,Understand the goals of a system. Find ways to measure if the system is reaching those goals. Find ways to improve or fix how the system performs.,27,3.6
+,,,,,,,
+Technical Skills (11 elements):,"Developed capacities used to design, set-up, operate, and correct malfunctions involving application of machines or technological systems.",17,18.8,Technical Skills (11 elements):,"Skills used to make, set up, use, and fix machines or technology.",12,4.8
+,,,,,,,
+Equipment Maintenance:,Performing routine maintenance on equipment and determining when and what kind of maintenance is needed.,15,12.2,Equipment Upkeep:,"Keep equipment, machines, and tools in good working order. Figure out when and how they need to be fixed. ",19,3.6
+,,,,,,,
+Equipment Selection:,Determining the kind of tools and equipment needed to do a job.,12,6.7,Choosing Equipment:,Choose the right kind of tools and equipment to do a job.,12,2.8
+,,,,,,,
+Installation:,"Installing equipment, machines, wiring, or programs to meet specifications.",9,14.1,Installing:,"Put in and set up machines, wiring, or programs. Follow steps to set up correctly. ",15,3.8
+,,,,,,,
+Operation and Control:,Controlling operations of equipment or systems.,6,14.2,Controlling Machines: ,Use and control machines or systems. ,6,4.4
+,,,,,,,
+Operation Monitoring:,"Watching gauges, dials, or other indicators to make sure a machine is working properly.",14,10.9,Monitoring Operations: ,Make sure machines are working correctly. Check dials and other settings. ,11,5.8
+,,,,,,,
+Operations Analysis:,Analyzing needs and product requirements to create a design.,9,10.2,Studying Operations:,Figure out what is needed to make a design or product. ,11,4.7
+,,,,,,,
+Programming:,Writing computer programs for various purposes.,6,14.2,Programming:,Write programs for computers. ,4,6.6
+,,,,,,,
+Quality Control Analysis: ,"Conducting tests and inspections of products, services, or processes to evaluate quality or performance.",14,13.4,Quality Control:,Test whether products are made well and made correctly. ,9,4.9
+,,,,,,,
+Repairing:,Repairing machines or systems using the needed tools.,8,8.1,Repairing:,Fix machines or systems. Use tools to make repairs. ,9,1.8
+,,,,,,,
+Technology Design:,Generating or adapting equipment and technology to serve user needs.,10,13,Designing Technology:,Make or change equipment and technology to meet the needs of users. ,12,6.7
+,,,,,,,
+Troubleshooting:,Determining causes of operating errors and deciding what to do about it.,12,11.7,Troubleshooting:,Figure out the causes of operating errors. Choose how to fix them. ,12,4.4
